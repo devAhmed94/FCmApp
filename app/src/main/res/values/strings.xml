@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">FCmApp</string>
+    <string name="set_title">set title</string>
+  <string name="set_massage">set massage</string>
+  <string name="set_token">set token</string>
+  <string name="send">send</string>
+</resources>
